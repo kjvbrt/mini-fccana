@@ -1,4 +1,4 @@
-# FCC Mini Analysis
+# Mini FCC Analysis
 
 ## Compilation
 

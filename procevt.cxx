@@ -20,7 +20,7 @@
 
 void printHelp() {
   std::cout << "Usage: procevt [ih]\n"
-            << "  -i/--in-file         Input file path\n"
+            << "  -i/--in-file         input file path\n"
             << "  -h/--help            show this help message" << std::endl;
 }
 
